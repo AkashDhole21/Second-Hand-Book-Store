@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:07:05 +0530] "GET /SecondHand_Book_Store HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:07:07 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3198 http-bio-8080-exec-3 1528
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:41 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3691 http-bio-8080-exec-4 157
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:42 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3019 http-bio-8080-exec-5 36
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:42 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3019 http-bio-8080-exec-6 23
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:46 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3691 http-bio-8080-exec-7 219
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:47 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3019 http-bio-8080-exec-8 31
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:47 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3019 http-bio-8080-exec-9 36
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:47 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3019 http-bio-8080-exec-10 29
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:48 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3019 http-bio-8080-exec-1 30
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:48 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3019 http-bio-8080-exec-3 31
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:49 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3019 http-bio-8080-exec-2 27
+0:0:0:0:0:0:0:1 - - [21/Apr/2022:11:08:50 +0530] "GET /SecondHand_Book_Store/ HTTP/1.1" 500 3691 http-bio-8080-exec-4 209
